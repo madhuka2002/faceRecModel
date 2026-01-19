@@ -1,13 +1,12 @@
 ---
 
-```md
+
 # Face Recognition System (SVM + PCA)
 
 This repository contains a **Face Recognition System** implemented using **Supervised Machine Learning** techniques.  
 The system uses **Principal Component Analysis (PCA)** for feature reduction and **Support Vector Machine (SVM)** for face classification.
 
 The project is **fully dynamic**, allowing users to add new people, recreate the dataset, retrain the model, and test recognition results.
-```
 ---
 
 ## 📁 Project Structure
